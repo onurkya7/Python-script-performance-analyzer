@@ -20,6 +20,10 @@ Important information:
 ![Capture](https://user-images.githubusercontent.com/100594545/218255770-f848418b-abac-448b-b17d-d236d2f36967.PNG)
 
 
+## License
+
+Our project is licensed under the [MIT License](LICENSE).
+
 
 
 
